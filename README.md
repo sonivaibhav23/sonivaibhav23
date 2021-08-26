@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sonivaibhav23
+- 👋 Hi, I’m Vaibhav Soni.
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently working as a micro-services developer.
 - 📫 How to reach me https://www.linkedin.com/in/sonivaibhav23/.
